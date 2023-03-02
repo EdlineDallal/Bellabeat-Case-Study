@@ -37,3 +37,5 @@ The following Python packages were used in this analysis:
 - numpy
 - matplotlib
 - seaborn
+- datetime
+- textblob
