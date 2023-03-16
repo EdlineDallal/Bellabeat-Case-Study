@@ -19,10 +19,10 @@ The biggest slice of usage time goes to sedentary mode (81%), while very active 
 ## Recommendations
 Based on these findings, Bellabeat could make the following recommendations for their marketing strategy:
 
-Encourage users to use the app on weekends.
-Encourage users to burn more calories by increasing their activity to achieve levels in the app, which could give them benefits and promotions.
-Build a personal program for users to encourage them to be more active.
-Connect to other applications for promotions.
+1. Encourage users to use the app on weekends.
+2. Encourage users to burn more calories by increasing their activity to achieve levels in the app, which could give them benefits and promotions.
+3. Build a personal program for users to encourage them to be more active.
+4. Connect to other applications for promotions.
 
 ## Files
 README.md: this file.
